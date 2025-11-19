@@ -1,4 +1,4 @@
-<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/ba4c73b3-2fb5-4bd5-8d6b-74567dcc0507" /># GS-PCP
+ # GS-PCP
   
 
 # Sistema de Orientação de Carreiras e Cursos (Python CLI)
