@@ -1,4 +1,4 @@
-# GS-PCP
+<img width="1919" height="835" alt="image" src="https://github.com/user-attachments/assets/ba4c73b3-2fb5-4bd5-8d6b-74567dcc0507" /># GS-PCP
   
 
 # Sistema de Orientação de Carreiras e Cursos (Python CLI)
@@ -63,5 +63,7 @@ Este projeto é um sistema baseado em terminal (CLI) desenvolvido em Python. Seu
 1. Instale o **Python** e uma IDE compatível.
 
 2. Baixe o repositório do programa.
-
-3. Execute o projeto utilizando a classe **`main`** dentro da pasta **`outros`**:
+3. Extraia o ZIP
+4. Abra o projeto (Certifique-se de não abrir a raiz do projeto abra a pasta que está dentro da GS-PCP-main)
+*IMPORTANTE!!!* Garanta que o caminho do arquivo está parecido com isso. C:\Users\GS-PCP-main\GS-PCP-main
+5. Execute o projeto utilizando a classe **`main`** dentro da pasta **`outros`**:
